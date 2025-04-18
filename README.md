@@ -41,10 +41,9 @@ flutter pub get
 
 ### 3. Rode o aplicativo:
 
-- **Para rodar no Android/iOS** (mobile):
-    ```bash
-    flutter run
-    ```
+```bash
+flutter run
+```
 
 ### 4. Rodando os testes:
 
